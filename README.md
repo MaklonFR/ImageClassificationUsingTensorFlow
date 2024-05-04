@@ -1,12 +1,6 @@
 # ImageClassification_in_TensorFlow
 Image Classification in TensorFlow (Submission Dicoding Indonesia) - Kelas Belajar Machine Learning untuk Pemula
-# Biodata Diri sesuai profil Dicoding
-# Nama Lengkap: Maklon Jacob Frare
-# Username		: maklon
-# Email       : maklonjacob.frare@gmail.com
-# Domisi      : Manggarai Barat - NTT
-# Headline		: Software Engineering Teacher
-# Tentang Saya: I'm a Software Engineering Teacher at the State Vocational High School of Kuwus, West Manggarai, Indonesia
+
 Dataset: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
 Model.Fit:
 ![image](https://github.com/MaklonFR/MaklonFR-ImageClassification_in_TensorFlow/assets/88584119/b3fb9608-593a-466a-b39c-4a9be105c95a)
