@@ -1,4 +1,4 @@
-# ImageClassification_in_TensorFlow
+# Image Classification using TensorFlow
 Image Classification in TensorFlow (Submission Dicoding Indonesia) - Kelas Belajar Machine Learning untuk Pemula
 
 Dataset: https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
